@@ -9,5 +9,5 @@ public class Student {
     private String id;
     private String name;
     private String gender;
-    private String gpa;
+    private double gpa;
 }
